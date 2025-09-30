@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**My name is Michalia and welcome to my GitHub Profile!
+**My name is Michalia and welcome to my GitHub Profile!**
 
 ### ✨Fast facts about me!✨
 - 💼 I'm currently working as an assistant language teacher in Japan!
