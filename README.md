@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning Python.
 - 💬 Ask me about my time in Japan, video games I like, my coding journey, or anything really!
 - 📫 How to reach me: email: michalia.lewis@outlook.com
+- 🔗 [LinkedIn Profile](www.linkedin.com/in/michalia-lewis)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My very first flight was when I moved to Japan!
 
